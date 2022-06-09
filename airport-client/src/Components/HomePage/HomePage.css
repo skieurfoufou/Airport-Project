@@ -1,0 +1,11 @@
+.homePage-div-image {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: space-around;
+  justify-content: center;
+}
+.homePage-div-title {
+  background-color: rgb(138, 217, 239);
+  color: rgb(9, 86, 107);
+}
